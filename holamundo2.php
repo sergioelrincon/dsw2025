@@ -3,7 +3,7 @@
 <body>
 
 <?php 
-	echo "<h2>Hola mundo 2</h2>"; 
+	echo "<h2>Hola mundo 2. Corregido</h2>"; 
 ?>
 
 </body>
